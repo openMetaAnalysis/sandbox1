@@ -1,3 +1,3 @@
-Trial,Selection bias,,Performance bias,Detection bias,Attrition bias,Other biases,,,
-,Random sequence,Allocation concealment,Blinding of participants,Blinding of outcome assessment,Selective reporting,"imbalaced complice, co-interventions, etc",,,
-12345678,Low risk,Unclear risk,High risk,Low risk,Low risk,Low risk,Low risk,Low risk,Low risk
+Trial,PMID,Selection bias,,Performance bias,Detection bias,Attrition bias,Other biases
+,Random sequence,Allocation concealment,Blinding of participants,Blinding of outcome assessment,Selective reporting,"imbalaced complice, co-interventions, etc"
+Osler,12345678,Low risk,Unclear risk,High risk,Low risk,Low risk,Low risk
