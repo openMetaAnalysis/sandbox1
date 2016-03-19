@@ -1,3 +1,2 @@
 Study,PMID,Patient/problem/Population, Intervention, Comparison, Outcome
-Osler,123456789, "87 patients with mean age 55, 
-51% women, with diabetes but no kidney disease", lisinopril 20 mg/day for 6 months,usual care, microalbuminuria at 12 months
+Osler,123456789, "87 patients with mean age 55,\n 51% women, with diabetes but no kidney disease", lisinopril 20 mg/day for 6 months,usual care, microalbuminuria at 12 months
